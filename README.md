@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : https://nifty-beaver-ccee19.netlify.com()
+* Link to the website deployed on Netlify :https://nifty-beaver-ccee19.netlify.com/
